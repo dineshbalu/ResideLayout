@@ -5,6 +5,15 @@ ResideLayout
 
 An Android Layout which has a same function like https://github.com/romaonthego/RESideMenu. Can be used on Android 1.6(I haven't try it.)
 
+**Guide to import with gradle**
+add to build.gradle
+
+repositories {
+    mavenCentral()
+
+    maven { url "https://github.com/kyze8439690/ResideLayout.git" }
+}
+
 ------------
 **Features**
 
